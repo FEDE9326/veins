@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="doublecross.net.xml" />
+	<copy file="doublecross.rou.xml" />
+	<copy file="doublecross.poly.xml" />
+	<copy file="doublecross.sumo.cfg" type="config" />
+</launch>
+

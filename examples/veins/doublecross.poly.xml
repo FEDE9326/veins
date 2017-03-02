@@ -1,0 +1,9 @@
+<shapes>
+	<poly id="Building#1" type="building" color="#FF6666" fill="1" layer="4" shape="0,394 394,394 394,0 380,0 380,380 0,380 0,394"/>
+	<poly id="Building#2" type="building" color="#FFB266" fill="1" layer="4" shape="0,406 0,420 380,420 380,800 394,800 394,406 0,406"/>
+	<poly id="Building#3" type="building" color="#FFFF66" fill="1" layer="4" shape="406,800 420,800 420,420 880,420 880,800 894,800 894,406 406,406 406,800"/>
+	<poly id="Building#4" type="building" color="#B2FF66" fill="1" layer="4" shape="406,0 406,394 894,394 894,0 880,0 880,380 420,380 420,0 406,0"/>
+	<poly id="Building#5" type="building" color="#66FF66" fill="1" layer="4" shape="906,800 920,800 920,420 1300,420 1300,406 906,406 906,800"/>
+	<poly id="Building#6" type="building" color="#CCFFFF" fill="1" layer="4" shape="906,394 1300,394 1300,380 920,380 920,0 906,0 906,394"/>
+
+</shapes>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<edges>
+	<edge from="1" id="1to3" to="3" />
+	<edge from="2" id="2to3" to="3" />
+	<edge from="3" id="3to1" to="1" />
+	<edge from="3" id="3to2" to="2" />
+	<edge from="3" id="3to4" to="4" />
+	<edge from="3" id="3to6" to="6" />
+	<edge from="4" id="4to3" to="3" />
+	<edge from="5" id="5to6" to="6" />
+	<edge from="6" id="6to3" to="3" />
+	<edge from="6" id="6to5" to="5" />
+	<edge from="6" id="6to7" to="7" />
+	<edge from="6" id="6to8" to="8" />
+	<edge from="7" id="7to6" to="6" />
+	<edge from="8" id="8to6" to="6" />
+</edges>
